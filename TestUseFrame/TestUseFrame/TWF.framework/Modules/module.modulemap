@@ -1,0 +1,11 @@
+framework module TWF {
+  umbrella header "TWF.h"
+
+  export *
+  module * { export * }
+}
+
+module TWF.Swift {
+    header "TWF-Swift.h"
+    requires objc
+}

@@ -13,6 +13,7 @@ public class SwiftViewController: UIViewController {
     override public func viewDidLoad() {
         super.viewDidLoad()
 
+        
     }
 
     public  func testoc(){
